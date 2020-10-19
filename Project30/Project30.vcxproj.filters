@@ -18,5 +18,11 @@
     <ClCompile Include="factorial.cpp">
       <Filter>리소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="euclid.cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bubble1.cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
